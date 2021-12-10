@@ -1,25 +1,11 @@
-# Mage Project here
-> This is just a demo notebook of my own library.
+# Introduction
+
+This repository hosts couple of examples from Tensorflow & Keras library. Idea is to create a go-to repository for any kind of machine learning problem and get code snippets to help in the task
+
+# Structure
+Structure of this project is divided into few main sections
+1. Tensorflow
+2. Keras
 
 
-This file will become your README and also the index of your documentation.
-
-## Install
-
-`pip install tfbook_pages`
-
-## How to use
-
-Fill me in please! Don't forget code examples:
-
-```python
-mage = Mage('Puneet', 100, Ability(10, 'water'))
-print(mage)
-```
-
-                Puneet's character health: 100
-                Puneet's max health: 100
-                Puneet's Ability damage: 10
-                Puneet's Ability type:  water
-                
 

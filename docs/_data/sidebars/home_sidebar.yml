@@ -9,13 +9,19 @@ entries:
     - output: web,pdf
       title: Overview
       url: /
-    - output: web,pdf
-      title: module name here
-      url: core.html
-    - output: web,pdf
-      title: Create Mage here
-      url: game.html
+    - output: web
+      subfolders:
+      - output: web,pdf
+        title: Introduction
+        url: core.html
+      title: Tensorflow
+    - output: web
+      subfolders:
+      - output: web,pdf
+        title: Introduction
+        url: game.html
+      title: Keras
     output: web
-    title: tfbook_pages
+    title: TfBook
   output: web
   title: Sidebar

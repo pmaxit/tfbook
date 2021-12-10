@@ -2,10 +2,12 @@
   "TfBook": {
     "Overview": "/",
     "Tensorflow": {
-      "Introduction" : "core.html"
+      "Lesson 1 - Introduction" : "core.html",
+      "Lesson 2 - Graph API"  :   "core.html"
     },
     "Keras": {
-      "Introduction" : "game.html"
+      "Lesson 1 - Introduction" : "core.html",
+      "Lesson 2 - Dataset"      : "game.html"
     }
   }
 }

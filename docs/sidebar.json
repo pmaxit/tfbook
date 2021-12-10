@@ -1,7 +1,11 @@
 {
-  "tfbook_pages": {
+  "TfBook": {
     "Overview": "/",
-    "module name here": "core.html",
-    "Create Mage here": "game.html"
+    "Tensorflow": {
+      "Introduction" : "core.html"
+    },
+    "Keras": {
+      "Introduction" : "game.html"
+    }
   }
 }

@@ -3,7 +3,7 @@
     "Overview": "/",
     "Tensorflow": {
       "Lesson 1 - Introduction" : "/core.html",
-      "Lesson 2 - Graph API"  :   "/core.html"
+      "Lesson 2 - FizzBuzz"   :   "/fizzbuzz.html"
     },
     "Keras": {
       "Lesson 1 - Introduction" : "/core.html",

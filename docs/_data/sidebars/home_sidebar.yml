@@ -12,16 +12,22 @@ entries:
     - output: web
       subfolders:
       - output: web,pdf
-        title: Introduction
-        url: core.html
+        title: Lesson 1 - Introduction
+        url: /core.html
+      - output: web,pdf
+        title: Lesson 2 - Graph API
+        url: /core.html
       title: Tensorflow
     - output: web
       subfolders:
       - output: web,pdf
-        title: Introduction
-        url: game.html
+        title: Lesson 1 - Introduction
+        url: /core.html
+      - output: web,pdf
+        title: Lesson 2 - Dataset
+        url: /game.html
       title: Keras
     output: web
-    title: TfBook
+    title: TensorFlow Book
   output: web
   title: Sidebar

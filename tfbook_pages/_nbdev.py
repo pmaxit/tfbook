@@ -9,8 +9,8 @@ index = {"hello_world": "00_core.ipynb",
 
 modules = ["core.py"]
 
-doc_url = "https://puneet.github.io/tfbook_pages/"
+doc_url = "https://pmaxit.github.io/tfbook_pages/"
 
-git_url = "https://github.com/puneet/tfbook_pages/tree/master/"
+git_url = "https://github.com/pmaxit/tfbook_pages/tree/master/"
 
 def custom_doc_links(name): return None

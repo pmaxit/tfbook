@@ -15,8 +15,8 @@ entries:
         title: Lesson 1 - Introduction
         url: /core.html
       - output: web,pdf
-        title: Lesson 2 - Graph API
-        url: /core.html
+        title: Lesson 2 - FizzBuzz
+        url: /fizzbuzz.html
       title: Tensorflow
     - output: web
       subfolders:

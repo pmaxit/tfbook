@@ -1,6 +1,13 @@
+# Github Page Link
+
+
+
 # Welcome to TFBook
+
+
 > One stop solution for Tensorflow information
 
+This notebook will contain examples from Machine Learning domain and their implementation in Tensorflow. This was done part of my learning process but I tried to make it little presentable to be able to share my knowledge with others.
 
 ### How do I get started?
 

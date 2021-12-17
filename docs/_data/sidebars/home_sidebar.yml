@@ -28,6 +28,15 @@ entries:
           title: Lesson 2 - Layers
           url: /game.html
         title: Keras
+      - output: web
+        subfolderitems:
+        - output: web,pdf
+          title: Lesson 1 - Introduction
+          url: /game.html
+        - output: web,pdf
+          title: Lesson 2 - Transformers
+          url: /recommendation.html
+        title: Recommendation
     output: web
     title: TensorFlow Book
   output: web

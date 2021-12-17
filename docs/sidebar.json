@@ -1,13 +1,23 @@
 {
   "TensorFlow Book": {
     "Overview": "/",
-    "Tensorflow": {
-      "Lesson 1 - Introduction" : "/core.html",
-      "Lesson 2 - FizzBuzz"   :   "/fizzbuzz.html"
+    "": {
+      "TensorFlow":{
+        "Lession 1 - Introduction": "/core.html",
+        "Lesson 2 - FizzBuzz": "/fizzbuzz.html"
+      }
     },
-    "Keras": {
-      "Lesson 1 - Introduction" : "/core.html",
-      "Lesson 2 - Dataset"      : "/game.html"
+    "empty1": {
+      "Keras": {
+        "Lesson 1 - Introduction": "/game.html",
+        "Lesson 2 - Layers" : "/game.html"
+      }
+    },
+    "empty3":{
+      "Recommendation":{
+        "Lesson 1 - Introduction": "/game.html",
+        "Lesson 2 - Transformers": "/recommendation.html"
+      }
     }
   }
 }

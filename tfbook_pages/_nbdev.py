@@ -5,9 +5,27 @@ __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 index = {"hello_world": "00_core.ipynb",
          "Ability": "00_core.ipynb",
          "Character": "00_core.ipynb",
-         "Mage": "00_core.ipynb"}
+         "Mage": "00_core.ipynb",
+         "MaskSequence": "lib_layers.py.ipynb",
+         "Relation": "lib_relation_extraction.ipynb",
+         "RelationCollection": "lib_relation_extraction.ipynb",
+         "construct_text_spans": "lib_relation_extraction.ipynb",
+         "extract_relations": "lib_relation_extraction.ipynb",
+         "get_relation_spans": "lib_relation_extraction.ipynb",
+         "get_verbs": "lib_relation_extraction.ipynb",
+         "find_nearest_pattern": "lib_relation_extraction.ipynb",
+         "merge_overlapping_consecutive_word_span": "lib_relation_extraction.ipynb",
+         "find_latest_span": "lib_relation_extraction.ipynb",
+         "find_earliest_span": "lib_relation_extraction.ipynb",
+         "find_longest_span": "lib_relation_extraction.ipynb",
+         "TextSpan": "lib_span.ipynb",
+         "wiki_scrape": "lib_wikiscrape.ipynb"}
 
-modules = ["core.py"]
+modules = ["core.py",
+           "layers.py",
+           "relation_extraction.py",
+           "span.py",
+           "wikiscrape.py"]
 
 doc_url = "https://pmaxit.github.io/tfbook_pages/"
 

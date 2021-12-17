@@ -9,24 +9,25 @@ entries:
     - output: web,pdf
       title: Overview
       url: /
-    - output: web
       subfolders:
-      - output: web,pdf
-        title: Lesson 1 - Introduction
-        url: /core.html
-      - output: web,pdf
-        title: Lesson 2 - FizzBuzz
-        url: /fizzbuzz.html
-      title: Tensorflow
-    - output: web
-      subfolders:
-      - output: web,pdf
-        title: Lesson 1 - Introduction
-        url: /core.html
-      - output: web,pdf
-        title: Lesson 2 - Dataset
-        url: /game.html
-      title: Keras
+      - output: web
+        subfolderitems:
+        - output: web,pdf
+          title: Lession 1 - Introduction
+          url: /core.html
+        - output: web,pdf
+          title: Lesson 2 - FizzBuzz
+          url: /fizzbuzz.html
+        title: TensorFlow
+      - output: web
+        subfolderitems:
+        - output: web,pdf
+          title: Lesson 1 - Introduction
+          url: /game.html
+        - output: web,pdf
+          title: Lesson 2 - Layers
+          url: /game.html
+        title: Keras
     output: web
     title: TensorFlow Book
   output: web
